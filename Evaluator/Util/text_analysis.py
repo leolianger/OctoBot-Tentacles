@@ -31,7 +31,7 @@ from tools.decoding_encoding import DecoderEncoder
 
 from evaluator.Util.abstract_util import AbstractUtil
 from newspaper import Article
-from config import IMAGE_ENDINGS
+from config.cst import IMAGE_ENDINGS
 
 
 class TextAnalysis(AbstractUtil):

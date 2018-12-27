@@ -29,7 +29,7 @@ $tentacle_description: {
 import numpy
 
 from evaluator.Util.abstract_util import AbstractUtil
-from config import START_PENDING_EVAL_NOTE
+from config.cst import START_PENDING_EVAL_NOTE
 
 
 class OverallStateAnalyser(AbstractUtil):

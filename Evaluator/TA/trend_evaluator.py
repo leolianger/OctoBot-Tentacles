@@ -29,6 +29,7 @@ $tentacle_description: {
 import tulipy
 
 from config import *
+from config.cst import *
 import numpy
 import math
 

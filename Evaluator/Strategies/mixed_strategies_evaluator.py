@@ -29,6 +29,7 @@ $tentacle_description: {
 #  License along with this library.
 
 from config import *
+from config.cst import *
 from evaluator.Strategies import MixedStrategiesEvaluator
 from tentacles.Evaluator.RealTime import InstantFluctuationsEvaluator
 from tentacles.Evaluator.Social import MediumNewsEvaluator, RedditForumEvaluator

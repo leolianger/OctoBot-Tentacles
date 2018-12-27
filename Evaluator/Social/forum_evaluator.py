@@ -28,6 +28,7 @@ $tentacle_description: {
 #  License along with this library.
 
 from config import *
+from config.cst import *
 from evaluator.Social.social_evaluator import ForumSocialEvaluator
 from evaluator.Util.advanced_manager import AdvancedManager
 from evaluator.Util import TextAnalysis

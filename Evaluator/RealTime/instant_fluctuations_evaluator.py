@@ -32,7 +32,7 @@ import tulipy
 
 import numpy as np
 
-from config import *
+from config.cst import *
 from evaluator.RealTime.realtime_evaluator import RealTimeTAEvaluator
 
 """
