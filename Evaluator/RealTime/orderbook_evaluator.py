@@ -27,7 +27,7 @@ $tentacle_description: {
 #  You should have received a copy of the GNU Lesser General Public
 #  License along with this library.
 
-from config import CONFIG_TIME_FRAME, TimeFrames, CONFIG_REFRESH_RATE
+from config.cst import CONFIG_TIME_FRAME, TimeFrames, CONFIG_REFRESH_RATE
 from evaluator.RealTime import RealTimeTAEvaluator
 
 
